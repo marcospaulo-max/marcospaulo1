@@ -1,6 +1,6 @@
 
 # Boas vindas ao meu perfil 💙💙
-Meu nome é Marcos Paulo
+Meu nome é **Marcos Paulo**
 
 .  Estou estudando na Alura
 .  Estou me desenvolvendo na linguagem JavaScript
